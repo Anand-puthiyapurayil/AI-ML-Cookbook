@@ -1,5 +1,9 @@
+
+![cookbook](assets/cookbook.png)
+
 # Anand’s AI/ML Cookbook
 _"A real-world framework for building intelligent, ethical, and explainable systems."_
+
 
 ## 🗂️ Table of Contents
 1. Project Development Principles  
