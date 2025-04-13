@@ -12,7 +12,9 @@ _"A real-world framework for building intelligent, ethical, and explainable syst
 8. Experimentation & Feedback Loops  
 9. Security & Abuse Prevention  
 10. Knowledge & Learning System  
-11. My Personal Laws
+11. My Personal Laws  
+12. Project & Product Development Distinction  
+13. Agile, ART & Delivery Mindset
 
 ---
 
@@ -191,6 +193,32 @@ MVP: Dummy dataset → Drift check → Slack alert + Streamlit dashboard
 - If it’s live, monitor it  
 - If it’s personal data, protect it  
 - If someone else needs it, document it
+
+---
+
+## 12. Project & Product Development Distinction
+> *"Understand the difference — build both right."*
+
+### Project Development:
+- Focus: Technical delivery (pipelines, models, deployment)
+- Outcome: Scalable, testable, performant systems
+- Ends with: Stable working system
+
+### Product Development:
+- Focus: User needs, business alignment, experience design
+- Outcome: Solves the right problem, not just any problem
+- Ends with: Adoption, feedback, trust, and iteration
+
+---
+
+## 13. Agile, ART & Delivery Mindset
+> *"Delivering AI value is iterative, collaborative, and always aligned with business rhythm."*
+
+- Use Agile principles (epics, user stories, sprints) to break large goals into deliverable chunks  
+- Apply ART (Agile Release Train) when working cross-team with synchronized delivery  
+- Always align AI goals with stakeholder OKRs and business priorities  
+- Deliver value incrementally — every sprint should ship something that can be validated or learned from  
+- Keep AI workflows transparent and demo-ready — let the business see progress, not just metrics
 
 ---
 
